@@ -25,6 +25,6 @@
 
 ---
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/junming-wu-881909252) | [Email](wujunming07@gmail.com)
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/junming-wu-881909252) | [Email](mailto:wujunming07@gmail.com)
 
 ---
