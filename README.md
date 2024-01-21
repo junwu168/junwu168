@@ -1,4 +1,9 @@
-### Hi there 👋
+## Programming Language: Java, Python, Kotlin
+## Framework & Tools: Spring Boot, ReactJS, Docker, MySQL
+## Web Technologies: HTML, CSS, JavaScript, React, REST API, Node.js Cloud Services: AWS, Google Cloud Platform
+
+## Certification
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a157c5fe-4ac1-49cb-87ba-098ecaa923b2/linked_in_profile)
 
 <!--
 **junwu168/junwu168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
