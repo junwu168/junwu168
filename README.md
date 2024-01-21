@@ -1,8 +1,8 @@
-## Programming Language: Java, Python, Kotlin
-## Framework & Tools: Spring Boot, ReactJS, Docker, MySQL
-## Web Technologies: HTML, CSS, JavaScript, React, REST API, Node.js Cloud Services: AWS, Google Cloud Platform
+### Programming Language: Java, Python, Kotlin
+### Framework & Tools: Spring Boot, ReactJS, Docker, MySQL
+### Web Technologies: HTML, CSS, JavaScript, React, REST API, Node.js Cloud Services: AWS, Google Cloud Platform
 
-## Certification
+### Certification
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a157c5fe-4ac1-49cb-87ba-098ecaa923b2/linked_in_profile)
 
 <!--
