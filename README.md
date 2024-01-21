@@ -1,21 +1,30 @@
-### Programming Language: Java, Python, Kotlin
-### Framework & Tools: Spring Boot, ReactJS, Docker, MySQL
-### Web Technologies: HTML, CSS, JavaScript, React, REST API, Node.js Cloud Services: AWS, Google Cloud Platform
+# Junming Wu
+*Java Full Stak Developer | Cloud Enthusiast*
 
-### Certification
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a157c5fe-4ac1-49cb-87ba-098ecaa923b2/linked_in_profile)
+---
 
-<!--
-**junwu168/junwu168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Programming Languages
+- **Java:** Experienced in building robust backend solutions.
+- **Python:** Skilled in scripting, data manipulation, and automation.
+- **Kotlin:** Utilized in Android development and server-side applications.
 
-Here are some ideas to get you started:
+### 🛠 Frameworks & Tools
+- **Spring Boot:** Proficient in creating microservices and RESTful APIs.
+- **ReactJS:** Developed dynamic and responsive user interfaces.
+- **Docker:** Experienced in containerizing applications for consistent deployment.
+- **MySQL:** Knowledgeable in relational database design and management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Web Technologies
+- **Front-End:** HTML, CSS, JavaScript, React.
+- **Back-End:** Node.js, Express.js.
+- **APIs:** RESTful design and integration.
+- **Cloud Services:** Proficient in AWS and Google Cloud Platform, leveraging cloud resources for optimized application performance.
+
+### 🏆 Certifications
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a157c5fe-4ac1-49cb-87ba-098ecaa923b2/linked_in_profile):** Accredited certification showcasing my knowledge in cloud computing and AWS services.
+
+---
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/junming-wu-881909252) | [Email](wujunming07@gmail.com)
+
+---
