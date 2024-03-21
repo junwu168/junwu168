@@ -18,7 +18,6 @@
 - **Front-End:** HTML, CSS, JavaScript, React.
 - **Back-End:** Node.js, Express.js.
 - **APIs:** RESTful design and integration.
-- **Cloud Services:** Proficient in AWS and Google Cloud Platform, leveraging cloud resources for optimized application performance.
 
 ### 🏆 Certifications
 - **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a157c5fe-4ac1-49cb-87ba-098ecaa923b2/linked_in_profile):** Accredited certification showcasing my knowledge in cloud computing and AWS services.
